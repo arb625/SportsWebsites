@@ -1,0 +1,11 @@
+@charset "iso-8859-1";
+.Normal {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: #333;
+	background-color: #FF0;
+	text-align: left;
+}
+body {
+	background-color: #FF0;

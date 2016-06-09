@@ -1,0 +1,116 @@
+
+index.html (Home Page)
+
+The 1983 Cricket World Cup was the 3rd edition of the Cricket World Cup. It lasted from June 9 to June 25 in England. The winner of this fantastic tournament was team India. The tournament consisted of a total of eight teams. The preliminary matches were played in two groups of four teams each, and each country played the others in its group twice. The top two teams from each of these groups advanced to the semifinals. The winners of the semifinals moved to the finals to determine the overall winner. This purpose of this site is to help cricket lovers like me learn about the 1983 Cricket World Cup, easily access the scorecards for the matches played, and to be able to appreciate the greatness of this particular World Cup. I hope that everyone who visits this site will tell their friends and family about how spectacular the 1983 Cricket World Cup was.  
+
+cricket.html (What is Cricket?) 
+
+Cricket is a bat-and-ball team sport. Professional matches are played on an oval-shaped arena with a rectangular strip of land in the middle, known as the cricket pitch. Each team consists of two teams of 11 players each. One team bats first and the other bowls first. Whichever captain wins the coin toss before the game gets to decide whether his team will bat or bowl first. The batting team tries to score as many runs as possible by hitting the ball with the bat and either running or hitting it to the rope, known as the boundary, around the arena. The bowling team tries to get each batsman out using various methods, the most common being bowled, leg before wicket, caught, and run out. After the teams finish the first innings, they switch batting and bowling. So if India bats first and Pakistan bowls first, then India bowls and Pakistan bats in the second innings. Whichever team gets the most runs in the given number of balls or before losing all their wickets, all their batsmen getting out, wins the game. 
+
+worldcup.html (About the World Cup) 
+
+The 1983 Cricket World Cup was a cricket tournament held from June 9 to June 25 in which eight teams competed for the title of "World Champions". The matches were 60 overs, or 360 balls, each and the players wore traditional white clothing. This particular World Cup is a special event in the hearts of many Indian cricket lovers such as I because no one expected team India to win even when they reached the finals because they were matched against a formidable West Indies team. However, they still managed to win and on June 25, which also happens to be my birthday, they created a great page in Indian cricket history.
+
+matches.html (The Matches)
+
+Each team receives 4 points for each match they win.
+Group A: England, Pakistan, New Zealand, Sri Lanka 
+This is a list of all matches played in Group A.
+June 9  England vs New Zealand    Winner: England
+June 9  Pakistan vs Sri Lanka     Winner: Pakistan
+June 11 England vs Sri Lanka      Winner: England
+June 11 New Zealand vs Pakistan   Winner: New Zealand
+June 13 Pakistan vs England       Winner: England
+June 13 Sri Lanka vs New Zealand  Winner: New Zealand
+June 15 England vs New Zealand    Winner: New Zealand
+June 16 Pakistan vs Sri Lanka     Winner: Pakistan
+June 18 Pakistan vs England       Winner: England
+June 18 New Zealand vs Sri Lanka  Winner: Sri Lanka
+June 20 Sri Lanka vs England      Winner: England
+June 20 Pakistan vs New Zealand   Winner: Pakistan
+Points:
+England: 5 wins, 20 points
+Pakistan: 3 wins, 12 points
+New Zealand: 3 wins, 12 points
+Sri Lanka: 1 win, 4 points
+England and Pakistan advanced to the semifinals. Even though Pakistan and New Zealand had the same number of points, Pakistan had a better net run rate, which is the ratio of runs scored to runs given off.
+Group B: West Indies, India, Australia, Zimbabwe 
+This is a list of all matches played in Group B.
+June 9  Zimbabwe vs Australia    Winner: Zimbabwe
+June 9  India vs West Indies     Winner: India 
+June 11 West Indies vs Australia Winner: West Indies
+June 11 Zimbabwe vs India        Winner: India
+June 13 Australia vs India       Winner: Australia
+June 13 Zimbabwe vs West Indies  Winner: West Indies
+June 15 West Indies vs India     Winner: West Indies
+June 16 Australia vs Zimbabwe    Winner: Australia
+June 18 Australia vs West Indies Winner: West Indies
+June 18 India vs Zimbabwe        Winner: India
+June 20 India vs Australia       Winner: India
+June 20 Zimbabwe vs West Indies  Winner: West Indies
+Points:
+West Indies: 5 wins, 20 points
+India: 4 wins, 16 points
+Australia: 2 wins, 8 points
+Zimbabwe: 1 win, 4 points
+West Indies and India advanced to the semifinals.
+Semifinals:
+June 22 England vs India        Winner: India
+June 22 Pakistan vs West Indies Winner: West Indies
+Final:
+India vs West Indies Winner: India
+Champions: India
+
+performers.html (Top Performers) 
+
+David Gower: Most Runs: 384 runs
+Kapil Dev: Highest score: 175 runs
+Roger Binny: Most Wickets: 18 wickets
+Grant Flower: Most fifties or more: 4 fifties
+Vivian Richards: Most Aggressive Batsman
+
+teams.html (Teams and Squads)
+
+These are all the teams that participated.
+England
+Pakistan
+New Zealand
+Sri Lanka
+West Indies
+India
+Australia
+Zimbabwe
+Here are the 1983 Cricket World Cup squads.(http://en.wikipedia.org/wiki/1983_Cricket_World_Cup_squads)
+
+
+highlights.html (Highlights of Final)
+
+Links:
+1983 WC final IND vs WIN part 1/5 (http://www.youtube.com/watch?v=APu1APxrdbw)
+1983 WC final IND vs WIN part 2/5 (http://www.youtube.com/watch?v=a724u7tzEYE&feature=related)
+1983 WC final IND vs WIN part 3/5 (http://www.youtube.com/watch?v=FPBKM-XWL9E&feature=related)
+1983 WC final IND vs WIN part 4/5 (http://www.youtube.com/watch?v=GU1ZGrQVVHg&feature=related)
+1983 WC final IND vs WIN part 5/5 (http://www.youtube.com/watch?v=dSZEN7a6cZ4&feature=related)
+
+
+impact.html (Impact on Indian Cricket)
+
+India's 1983 cricket World Cup victory over the mighty West Indies is widely acknowledged as the defining moment in the history of Indian cricket. Under the spirited leadership of Kapil Dev, a determined Indian team exploited the English conditions to clinch the coveted title. As the news filtered through to the fans back home, it led to unprecedented scenes of jubilation throughout Delhi and Calcutta and the rest of the country. After this event, many people around the country started getting interested in cricket. This marked the rise of Indian cricket as well. Cricket was taken more seriously and the players were paid a higher salary. It is safe to assume that of India hadn't won this World Cup, they wouldn't be as good a team as they are now.
+
+sources.html (Resources)
+
+These are the sites I used to gather my information. You can use them to learn more about the 1983 Cricket World Cup.
+http://en.wikipedia.org/wiki/1983_Cricket_World_Cup
+http://cricket-world-cup-2007.cricket.deepthi.com/world-cup-cricket-1983.html
+http://static.espncricinfo.com/db/ARCHIVE/WORLD_CUPS/WC83/
+http://en.wikipedia.org/wiki/1983_Cricket_World_Cup_squads
+http://www.espncricinfo.com/magazine/content/story/355230.html
+http://www.iloveindia.com/sports/cricket/achievements/world-cup-victory.html
+
+
+
+
+
+
+
+

@@ -1,0 +1,53 @@
+/*Heading Format*/
+h1 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 22px;
+	font-style: normal;
+	font-weight: bold;
+	font-variant: small-caps;
+	color: #000;
+	text-align: center;
+}
+
+/*Highlights Important Vocabulary In Red*/
+.vocab {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: bold;
+	font-variant: normal;
+	color: #C00;
+}
+
+/*Paragraph Format*/
+p {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	text-transform: none;
+	color: #000;
+	letter-spacing: normal;
+	word-spacing: normal;
+	text-align: left;
+	white-space: normal;
+}
+
+/*Orange Background*/
+body {
+	background-color:#FC3;
+} 
+
+/*Boldens Important Information*/
+.important {
+	font-weight: bolder;
+}
+
+/*Practice Style for 6.05*/
+.practice {
+   background-color: red;
+   color: white;
+}
+
+
+		

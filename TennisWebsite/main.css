@@ -1,0 +1,33 @@
+h1 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: bold;
+	font-variant: small-caps;
+	color: #000;
+	text-align: center;
+}
+.vocab {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: bold;
+	font-variant: normal;
+	color: #C00;
+}
+p {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #000;
+	text-decoration: none;
+	letter-spacing: normal;
+	word-spacing: normal;
+	text-align: left;
+} 
+
+body {background-color:#B1FB17;} 
